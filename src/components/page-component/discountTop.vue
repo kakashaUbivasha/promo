@@ -152,17 +152,17 @@ export default {
         }
       },
       cards1: [
-        {img: '/public/gosty.png', title: 'Gosty', discount: 'Каждый вторник — 20% на все меню', discountType: 'Скидки', description: 'Рестораны', date: 'До 29 февраля', isActive: false},
-        {img: '/public/shosh.png', title: 'Shosh', discount: 'Скидки на еду и напитки', discountType: 'Скидки', description: 'Кафе', date: '71:59:59', isActive: true},
-        {img: '/public/petrovich.png', title: 'Petrovich', discount: 'Ланч по выгодной цене и 2% кешбэк по промокоду', discountType: 'Скидки', description: 'Рестораны', date: 'До 29 февраля', isActive: false},
-        {img: '/public/shosh.png', title: 'Shosh', discount: 'Скидки на еду и напитки', discountType: 'Скидки', description: 'Кафе', date: '71:59:59', isActive: true},
-        {img: '/public/petrovich.png', title: 'Petrovich', discount: 'Ланч по выгодной цене и 2% кешбэк по промокоду', discountType: 'Скидки', description: 'Рестораны', date: 'До 29 февраля', isActive: false},
+        {img: './public/gosty.png', title: 'Gosty', discount: 'Каждый вторник — 20% на все меню', discountType: 'Скидки', description: 'Рестораны', date: 'До 29 февраля', isActive: false},
+        {img: './public/shosh.png', title: 'Shosh', discount: 'Скидки на еду и напитки', discountType: 'Скидки', description: 'Кафе', date: '71:59:59', isActive: true},
+        {img: './public/petrovich.png', title: 'Petrovich', discount: 'Ланч по выгодной цене и 2% кешбэк по промокоду', discountType: 'Скидки', description: 'Рестораны', date: 'До 29 февраля', isActive: false},
+        {img: './public/shosh.png', title: 'Shosh', discount: 'Скидки на еду и напитки', discountType: 'Скидки', description: 'Кафе', date: '71:59:59', isActive: true},
+        {img: './public/petrovich.png', title: 'Petrovich', discount: 'Ланч по выгодной цене и 2% кешбэк по промокоду', discountType: 'Скидки', description: 'Рестораны', date: 'До 29 февраля', isActive: false},
       ],
       cards: [
-        {img: '/public/Korzinka.png', title: 'Korzinka.uz', discount: 'В четверг скидки на рыбу', discountType: 'Скидки', description: 'Супермаркеты', date: 'До 29 февраля', isActive: false},
-        {img: '/public/Mango.png', title: 'MANGO', discount: 'Акция 1+1', discountType: 'Акции', description: 'Магазины брендовой одежды', date: '71:59:59', isActive: true},
-        {img: '/public/Texnomart.png', title: 'TEXNOMART', discount: 'До — 60% на бытовую технику в ТЦ «Samarkand Darvoza»', discountType: 'Скидки', description: 'Магазины электроники и бытовой техники', date: 'До 29 февраля', isActive: false},
-        {img: '/public/Makro.png', title: 'Makro', discount: 'При покупке CIF пачка губок Salixan БЕСПЛАТНО', discountType: 'Акции', description: 'Супермаркеты', date: 'До 29 февраля', isActive: false},
+        {img: './public/Korzinka.png', title: 'Korzinka.uz', discount: 'В четверг скидки на рыбу', discountType: 'Скидки', description: 'Супермаркеты', date: 'До 29 февраля', isActive: false},
+        {img: './public/Mango.png', title: 'MANGO', discount: 'Акция 1+1', discountType: 'Акции', description: 'Магазины брендовой одежды', date: '71:59:59', isActive: true},
+        {img: './public/Texnomart.png', title: 'TEXNOMART', discount: 'До — 60% на бытовую технику в ТЦ «Samarkand Darvoza»', discountType: 'Скидки', description: 'Магазины электроники и бытовой техники', date: 'До 29 февраля', isActive: false},
+        {img: './public/Makro.png', title: 'Makro', discount: 'При покупке CIF пачка губок Salixan БЕСПЛАТНО', discountType: 'Акции', description: 'Супермаркеты', date: 'До 29 февраля', isActive: false},
       ],
       faqs: [
         {title: 'Какие компании представлены на сайте?', content: 'The US labor market added far more jobs than projected in September while the unemployment rate unexpectedly ticked lower, reflecting a stronger picture of the jobs market than Wall Street had expected.\n' +
