@@ -43,7 +43,7 @@
 }
 .swiper-button-prev{
   left: -24px !important;
-  background-image: url("public/arrow-right-pgn.svg") !important;
+  background-image: url("/arrow-right-pgn.svg") !important;
   background-position: center;
   background-repeat: no-repeat;
   transform: scaleX(-1);
@@ -51,7 +51,7 @@
 }
 .swiper-button-next{
   right: -24px !important;
-  background-image: url("public/arrow-right-pgn.svg") !important;
+  background-image: url("/arrow-right-pgn.svg") !important;
   background-position: center;
   background-repeat: no-repeat;
   top: 68% !important;

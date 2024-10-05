@@ -27,10 +27,10 @@ export default {
   data(){
   return{
   cards: [
-    {img: './public/Korzinka.png', title: 'Korzinka.uz', discount: 'В четверг скидки на рыбу', discountType: 'Скидки', description: 'Супермаркеты'},
-    {img: './public/Mango.png', title: 'MANGO', discount: 'Акция 1+1', discountType: 'Акции', description: 'Магазины брендовой одежды'},
-    {img: './public/Texnomart.png', title: 'TEXNOMART', discount: 'До — 60% на бытовую технику в ТЦ «Samarkand Darvoza»', discountType: 'Скидки', description: 'Магазины электроники и бытовой техники'},
-    {img: './public/Makro.png', title: 'Makro', discount: 'При покупке CIF пачка губок Salixan БЕСПЛАТНО', discountType: 'Акции', description: 'Супермаркеты'},
+    {img: '/Korzinka.png', title: 'Korzinka.uz', discount: 'В четверг скидки на рыбу', discountType: 'Скидки', description: 'Супермаркеты'},
+    {img: '/Mango.png', title: 'MANGO', discount: 'Акция 1+1', discountType: 'Акции', description: 'Магазины брендовой одежды'},
+    {img: '/Texnomart.png', title: 'TEXNOMART', discount: 'До — 60% на бытовую технику в ТЦ «Samarkand Darvoza»', discountType: 'Скидки', description: 'Магазины электроники и бытовой техники'},
+    {img: '/Makro.png', title: 'Makro', discount: 'При покупке CIF пачка губок Salixan БЕСПЛАТНО', discountType: 'Акции', description: 'Супермаркеты'},
   ]
   }
   }
